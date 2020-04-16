@@ -1,0 +1,14 @@
+C:\Users\renuka\AppData\Local\Temporary Projects\tablero\bin\Debug\tablero.exe
+C:\Users\renuka\AppData\Local\Temporary Projects\tablero\bin\Debug\tablero.pdb
+C:\Users\renuka\AppData\Local\Temporary Projects\tablero\obj\x86\Debug\tablero.Form1.resources
+C:\Users\renuka\AppData\Local\Temporary Projects\tablero\obj\x86\Debug\tablero.Properties.Resources.resources
+C:\Users\renuka\AppData\Local\Temporary Projects\tablero\obj\x86\Debug\tablero.csproj.GenerateResource.Cache
+C:\Users\renuka\AppData\Local\Temporary Projects\tablero\obj\x86\Debug\tablero.exe
+C:\Users\renuka\AppData\Local\Temporary Projects\tablero\obj\x86\Debug\tablero.pdb
+C:\Users\renuka\Desktop\tablero\tablero\obj\x86\Debug\tablero.exe
+C:\Users\renuka\Desktop\tablero\tablero\obj\x86\Debug\tablero.pdb
+C:\Users\renuka\Desktop\tablero\tablero\bin\Debug\tablero.exe
+C:\Users\renuka\Desktop\tablero\tablero\bin\Debug\tablero.pdb
+C:\Users\renuka\Desktop\tablero\tablero\obj\x86\Debug\tablero.Form1.resources
+C:\Users\renuka\Desktop\tablero\tablero\obj\x86\Debug\tablero.Properties.Resources.resources
+C:\Users\renuka\Desktop\tablero\tablero\obj\x86\Debug\tablero.csproj.GenerateResource.Cache
